@@ -1,10 +1,8 @@
-# My test title
+## Day One
 
-## My subtitle
-
-Testing
+The first day was mostly about syllabus and HR issues. We also did environment set up.
 
 ---
 
-enabled wrokflows
-try again
+
+
