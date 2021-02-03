@@ -15,7 +15,7 @@ We did a fun morning exercise about CSS. I did finish all three, whoich not ever
 
 **What problems do you think you could run into if you over-utilized the !important feature?**
 
-## [Day Two Daily Project](https://cmitchell5619.github.io/CoolSite)
+## [Day Two Daily Project](hhttps://github.com/CMitchell5619/CoolSite)
 
 
 ---
