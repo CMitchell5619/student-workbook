@@ -11,6 +11,8 @@ We did a fun morning exercise about CSS. I did finish all three, whoich not ever
 
 **What is Specificity and how might you use it to your benefit?**
 
+
+
 **What problems do you think you could run into if you over-utilized the !important feature?**
 
 ## [Day Two Daily Project](https://cmitchell5619.github.io/CoolSite)
