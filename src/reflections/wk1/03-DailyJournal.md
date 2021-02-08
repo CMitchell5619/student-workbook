@@ -1,10 +1,10 @@
-# Day Three
+# Day Three Daily Journal
 
 ## Emotions
 
 Pretty frustrated with today. I feel like I was getting the feel for CSS and Bootstrap changes it all. Gonna have to go back and do earlier reading and re-do the Bootstrap Udemy class tonight.
 
-## Day Three Daily Journal
+## Day Three Daily Qs
 
 **What is your favorite tip that you think is the most beneficial to improving your design?**
 To mock the structure out before getting further involved in any individual portion of a project.

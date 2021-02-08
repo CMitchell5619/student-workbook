@@ -1,10 +1,10 @@
-# Day One 
+# Day One Daily Journal
 
 ## Emotions
 
 The first day was mostly about syllabus and HR issues. We also did environment set up.
 
-## Day One Daily Journal
+## Day One Daily Qs
 
 **In your own words, why do we use Git?**
     Git allows a developer a way to each save the project locally while controlling versions. They can go back to an earlier version or run parallel versions of the project.

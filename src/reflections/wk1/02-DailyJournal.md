@@ -1,10 +1,10 @@
-# Day Two
+# Day Two Daily Journal
 
 ## Emotions
 
 We did a fun morning exercise about CSS. In the afternoon, we were given an image of a website and had to recreate the image. It was interesting because the primary problem, from a novice perspective, is getting the two columns to align properly. You can kinda force it to work using position: absolute. Pretty sure that's not the most elegant solution.
 
-## Day Two Daily Journal
+## Day Two Daily Qs
 
 **What is a Pseudo-Class and what are some of the most common ones you think you will use?**
     A pseudo-class changes the state of the element; for instance, it can change on element while hovering over it or shows when a link has been visited.

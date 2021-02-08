@@ -4,6 +4,8 @@
 
 I feel much better today. I feel like Bootstrap kinda clicked and I'm moving forward well.
 
+## Day Four Daily Qs
+
 **What is the purpose of wire-framing?**
 
 Wireframing is a mock-up of a potential project, usually for the purpose of demontrating to both shareholders and the dev team itself.
