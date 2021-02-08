@@ -56,17 +56,17 @@ The Body
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+ul creates an unordered list, ol creates an ordered list, and dl creates a description list.
 ```
 
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
 ```
-
+It turns the element into a flexbox.
 ```
 
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
 ```
-
+The set height and width is applied to the internal content. If the box has any padding or a border, this is added to the height and width. 
 ```
