@@ -16,3 +16,11 @@ I like to go through Awwwards; the sites may not be hyper efficient, but are ver
 **How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?**
 
 A website is both an artistic expression and a functional tool to provide information or entertainment. Like the mise en scene of a director or the shot composition of a photographer, a website development team controls the focus of the user through the elements the website presents. 
+
+## [Day Three Daily Project](https://afoster44.github.io/partnerclone/)
+
+
+
+
+
+
