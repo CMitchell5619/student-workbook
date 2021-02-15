@@ -12,4 +12,4 @@ Had a fun day.
 
 **From the entire article what are your biggest takeaways?**
 
-## [Day Four Daily Project] (https://github.com/ashley-herrera/SlapGame)
+## [Day Four Daily Project](https://github.com/ashley-herrera/SlapGame)

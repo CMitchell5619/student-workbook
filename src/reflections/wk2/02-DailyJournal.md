@@ -12,5 +12,4 @@ Today was not toooooo bad. I have to go slow on loops involving math problems to
 
 **What are higher order functions? Can you provide an example?**
 
-## [Day Two Daily Project] (https://github.com/CMitchell5619/JS-tests)
-
+## [Day Two Daily Project](https://github.com/CMitchell5619/JS-tests)

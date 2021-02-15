@@ -12,4 +12,4 @@ Had a fun day.
 
 **Outside of writing everything to the console, what is a better way to debug your code?**
 
-## [Day Three Daily Project] (https://github.com/CMitchell5619/RPS)
+## [Day Three Daily Project](https://github.com/CMitchell5619/RPS)
