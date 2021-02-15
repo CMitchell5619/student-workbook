@@ -91,7 +91,7 @@ document object model
 <!-- enter you answer in the space below -->
 
 ```
-
+Undefined, boolean, number, string, bigint, symbol, object, function, null
 ```
 
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
