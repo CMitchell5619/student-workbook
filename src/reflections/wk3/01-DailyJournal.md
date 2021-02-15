@@ -10,4 +10,4 @@
 
 **What is a benefit of using the Module System?**
 
-## [Day One Daily Project] (https://github.com/CMitchell5619/zooKeeper)
+## [Day One Daily Project](https://github.com/CMitchell5619/zooKeeper)
