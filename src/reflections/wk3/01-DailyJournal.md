@@ -2,20 +2,19 @@
 
 ## Emotions
 
-Yay, encapsulation. I'm looking forward to getting into this.
+Not great. My checkpoint is kind of a mess and I'm working on it, but i'm pretty annoyed.
 
 ## Day One Daily Qs
 
-**What problem does using exports solve?**
+**What are some of the signs and causes of Callback Hell?**
+The coder is attempting to force the code to run synchronously and the code is getting deep.
 
-It quarantines the data, so if one area has issues, they're limited by scope.
+**What does the asynchronous mean and how are callbacks involved?**
 
-**How does export differ from export default?**
+Async means that the code is not being ran all at once, top to bottom. Instead, certain functions are running upon completion, or calling back.
 
-Export default exports the whole thing, whereas export allows you to send just what you want.
+**Summarize the 3 ways to avoid / fix Callback Hell**
 
-**What is a benefit of using the Module System?**
+Keep your code shallow and use specific names for functions, place code into appropriate modules, and fix errors as they appear.
 
-Having different modules helps keep the data seperate.
-
-## [Day One Daily Project](https://github.com/CMitchell5619/zooKeeper)
+## [Day One Daily Project](https://github.com/CMitchell5619/latewinter2021-swapi)
