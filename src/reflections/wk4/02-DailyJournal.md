@@ -8,8 +8,14 @@ Real bad. I got a strike on my checkpoint because i needed to fix two things and
 
 **What are the three states of a Promise?**
 
+Pending, resolved, and rejected.
+
 **How do promises seek to resolve the issues of "callback hell"?**
+
+They format the code to make it shallower and easier to read
 
 **What is the difference between .then() and .catch()?**
 
-## [Day Two Daily Project](https://github.com/CMitchell5619/Vendrrr)
+The then method is for resolved promises and catch is for rejected promises.
+
+## [Day Two Daily Project](https://github.com/CMitchell5619/latewinter2021-gregslist)
