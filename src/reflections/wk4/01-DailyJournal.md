@@ -2,7 +2,7 @@
 
 ## Emotions
 
-Yay, encapsulation. I'm looking forward to getting into this.
+We're starting async code. It seems like its not as big a jump as getting into MVC, but everyone says its hard. So i guess I'm ready????!?!?!?
 
 ## Day One Daily Qs
 
