@@ -30,7 +30,7 @@ staff.name;
 <!-- enter you answer in the space below -->
 
 ```
-
+It's a method of seperating data sets by use and funtion, both to protect it from the client level and keep it from becoming too interdependent.
 ```
 
 **4.** What does the S stand for in the `SOLID` principles?
@@ -62,7 +62,7 @@ An object that is identical to the held data, but passes forward towards the win
 <!-- enter you answer in the space below -->
 
 ```
-To encapsulate data, both to protect it from the client and to
+To encapsulate data, both to protect it from the client and to keep it from becoming unweildy.
 ```
 
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
