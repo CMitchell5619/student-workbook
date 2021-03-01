@@ -8,7 +8,7 @@ Struggle bus. I'm barely keeping up. I think i can do the projects, but I don't 
 
 **What problems does the Observer Pattern seek to solve?**
 
-It allows easy draw-to-page to occur
+It allows easy draw-to-page to occur. This happens automatically.
 
 **What are the three mechanisms of the observer pattern?**
 
