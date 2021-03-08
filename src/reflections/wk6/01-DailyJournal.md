@@ -2,7 +2,7 @@
 
 ## Emotions
 
-Good. Chill weekend, nop checkpoint. Didnt really know what to do with myself.
+Good. No checkpoint. Didn't really know what to do with myself.
 
 ## Day One Daily Qs
 
