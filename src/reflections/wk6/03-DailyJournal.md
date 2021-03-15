@@ -2,7 +2,7 @@
 
 ## Emotions
 
-
+Made Gregslist again. I dream about making Gregslist. It forever haunts me, like a sisyphean nightmare....
 
 ## Day Three Daily Qs
 

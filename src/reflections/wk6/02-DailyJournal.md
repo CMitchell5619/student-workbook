@@ -2,6 +2,8 @@
 
 ## Emotions
 
+VUe is different and weird. I like the vertical nature, but it also seems messier in some ways than MVC.
+
 ## Day Two Daily Qs
 
 What are props?
