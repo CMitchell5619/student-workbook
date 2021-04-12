@@ -14,7 +14,7 @@
 **3.** What is the method that returns an instance of a class, yet it has no return type?
 <!-- enter you answer in the space below -->
 ```
-
+Void
 ```
 ## Example 1
 ```c#
