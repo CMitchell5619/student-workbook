@@ -1,5 +1,7 @@
 # Day Three Daily Journal
 
+[Day Three Daily Project]()
+
 ## Emotions
 
 Feel pretty good. It's different, but we're doing the same things.
