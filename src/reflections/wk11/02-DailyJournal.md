@@ -8,7 +8,11 @@ WebAPis. New, but mostly the same. Feels like a lot of copy paste.
 
 What is the difference between a primary key and a foreign key
 
+Primary is for the actual table, foreign is the axis for the join.
+
 What is an Alias?
+
+When you use a variable for the table.
 
 Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
