@@ -1,18 +1,22 @@
+
+
 # Day One Daily Journal
 
 ## Emotions
 
-New language. Console games. I'm down.
+Wepapis again.
 
 ## Day One Daily Qs
 
-**What are the three categories of data types? How are they different?**
-Value, reference, pointer
+What does Inheritance accomplish for us in C#?
 
-**What are the Value-type data types? What differences do you notice from JavaScript?**
-They hold the data within their own memory space. JS is all key and reference
+It passes things from area to area
 
-**In your own words how do Reference types get stored in memory? How does this differ from Value types?**
-The actual data gets stored in another heap and just the reference is held. I mean, it's in the above question.
+How does Member inheritance work in C#? Does a class inherit all members of the base class?
 
+It inheirits what you choose to pass, through type.
+
+How does accessibility affect inheritance?
+
+It affects it by scope.
 
