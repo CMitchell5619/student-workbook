@@ -2,9 +2,8 @@
 
 ## AFTERNOON CHALLENGE ##
 
-[Day Two Daily Project](https://github.com/KurtisEberhardt/undertakings)
+[Day Two Daily Project](https://github.com/CMitchell5619/vacay)
 
-https://github.com/KurtisEberhardt/undertakings
 
 ## Emotions
 
