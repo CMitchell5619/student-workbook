@@ -1,6 +1,6 @@
 # Day Three Daily Journal
 
-[Day Three Daily Project]()
+[Day Three Daily Project](https://github.com/CMitchell5619/Jobs)
 
 ## Emotions
 
