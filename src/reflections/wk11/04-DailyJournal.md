@@ -2,7 +2,7 @@
 
 ## Afternoon Project ##
 
-[Day Two Daily Project](https://github.com/KurtisEberhardt/undertakings)
+[Day Four Daily Project](https://github.com/KurtisEberhardt/undertakings)
 
 ## Emotions ##
 
