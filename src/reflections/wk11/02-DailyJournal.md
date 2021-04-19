@@ -6,12 +6,31 @@ WebAPis. New, but mostly the same. Feels like a lot of copy paste.
 
 ## Day Two Daily Qs
 
-**What is a List in C#?**
-A collection of things that can be added to.
+What is the difference between a primary key and a foreign key
 
-**What List methods seem like you might use them often? Why?**
-Thye all have their place, but the answer is probably the boring everyday ones. Add, clear, contains, etc.
+What is an Alias?
 
-**How would you retrieve an item from a list? What method could you use?**
+Demonstrate how you would query a join statement that would get all of a doctors patients from the following collections:
 
-Find or findAll
+CREATE TABLE doctors (
+  id INT NOT NULL AUTO_INCREMENT,
+  -- CODE OMITTED
+  PRIMARY KEY (id)
+)
+
+CREATE TABLE patients (
+  id INT NOT NULL AUTO_INCREMENT,
+  -- CODE OMITTED
+  PRIMARY KEY (id)
+)
+
+CREATE TABLE doctors (
+  id INT NOT NULL AUTO_INCREMENT,
+  doctorId INT NOT NULL,
+  patientId INT NOT NULL,
+
+  FOREIGN KEY (doctorId)
+    REFERENCES doctors(id),
+  FOREIGN KEY (patientId)
+    REFERENCES patients(id),
+)
