@@ -1,5 +1,11 @@
 # Day Two Daily Journal
 
+## AFTERNOON CHALLENGE ##
+
+[Day Two Daily Project](https://github.com/KurtisEberhardt/undertakings)
+
+https://github.com/KurtisEberhardt/undertakings
+
 ## Emotions
 
 WebAPis. New, but mostly the same. Feels like a lot of copy paste. 
